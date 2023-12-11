@@ -92,16 +92,16 @@ DISABLE_LS_COLORS="false"
 
 plugins=(
     fd
-	colorize
+    colorize
     zsh-syntax-highlighting
     zsh-autosuggestions
-	git
-	tmux	
-	sudo
-	emoji
-	encode64
-	web-search
-	fzf
+    git
+    tmux
+    sudo
+    emoji
+    encode64
+    web-search
+    fzf
     copybuffer
     #zsh-bat
     man
