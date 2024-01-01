@@ -1,10 +1,10 @@
 syntax on                   " Turn syntax highlighting on.
 set number relativenumber   " Add numbers to each line on the left-hand side.
-set shiftwidth=4            " Set shift width to 4 spaces. 
+set shiftwidth=4            " Set shift width to 4 spaces.
 set tabstop=4	            " Set tab width to 4 columns.
 set nobackup	            " Do not save backup files
 set cindent                 " Use 'C' style program indenting
-set errorbells	            " Beep or flash screen on 
+set errorbells	            " Beep or flash screen on
 set wrap linebreak
 set tw=79
 
