@@ -1,0 +1,68 @@
+import = ["/home/woy/.config/alacritty/appearance/themes/iterm.toml"]
+
+[bell]
+animation = "EaseOut"
+
+[colors]
+
+[cursor]
+blink_interval = 500
+blink_timeout = 2
+unfocused_hollow = true
+vi_mode_style = "None"
+
+[cursor.style]
+blinking = "Always"
+shape = "Block"
+
+[debug]
+highlight_damage = false
+log_level = "Warn"
+print_events = false
+render_timer = false
+renderer = "None"
+
+[env]
+TERM = "alacritty"
+
+[font]
+builtin_box_drawing = true
+size = 10.0
+
+[font.bold]
+family = "monospace"
+style = "Bold"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
+
+[font.italic]
+family = "monospace"
+style = "Italic"
+
+[font.normal]
+family = "Hack"
+style = "Regular"
+
+[scrolling]
+history = 10000
+multiplier = 6
+
+[shell]
+program = "/bin/zsh"
+
+[window]
+decorations = "none"
+dynamic_padding = true
+dynamic_title = false
+opacity = 0.9
+title = "Alacritty"
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"
+
+[window.padding]
+x = 0
+y = 0
